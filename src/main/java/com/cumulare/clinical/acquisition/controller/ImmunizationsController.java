@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-//add slf4j
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
