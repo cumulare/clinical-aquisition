@@ -17,6 +17,10 @@ spring:
 #            dialect: org.hibernate.dialect.MySQL5Dialect
     application:
         name: Clinical-Acquisition
+        loader:
+            name: Immunization
+            request:
+                timeout: 5000
 management:
     endpoints:
         web:
