@@ -1,0 +1,8 @@
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/Application.java
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/controller/ImmunizationsController.java
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/enums/EligibilityEnum.java
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/models/Member.java
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/repository/MemberRepository.java
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/services/IMemberService.java
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/services/MemberService.java
+/Users/spacious/Documents/cumulare/clinical-aquisition/src/main/java/com/cumulare/clinical/acquisition/utils/DateFormatter.java
